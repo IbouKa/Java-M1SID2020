@@ -4,7 +4,7 @@
 package exercice1;
 
 /**
- * @author 22177
+ * @author IBOU KA
  *
  */
 public class Exo1 {

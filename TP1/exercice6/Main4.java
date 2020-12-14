@@ -1,4 +1,4 @@
-package exercice4;
+package exercice6;
 
 public class Main4 {
 
@@ -7,11 +7,9 @@ public class Main4 {
 		
 		Point p1=new Point(8,6);
 		Point p2=p1;
-		
-		p2.setX(4);
-		
-		System.out.println(p1.x+"	"+p2.x);
+	
 		System.out.println(p1==p2);
+		System.out.println(p1.equals(p2));
 	}
 
 }

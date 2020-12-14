@@ -1,4 +1,8 @@
 package exercice2;
+/**
+ * @author IBOU KA
+ *
+ */
 
 public class DessineTriangle {
 	
