@@ -15,11 +15,11 @@ public class Cercle {
 		System.out.println("Rayon :"+this.rayon);
 		this.centre.affiche();
 	}
-	public double surface(double r) {
+	public double surface() {
 		return PI*this.rayon*this.rayon;
 	}
 	public void imprimer() {
-		System.out.println("La surface est :"+this.surface(this.rayon));
+		System.out.println("La surface est :"+this.surface());
 	}
 	
 	
